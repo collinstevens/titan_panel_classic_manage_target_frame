@@ -1,0 +1,10 @@
+## Interface: 20504
+## Title: Titan Panel Classic [|cffeda55fManage Target Frame|r] |cff00aa001.5.2.20504|r
+## Notes: Prevents Titan Panel Classic from managing the position of the Target Frame
+## Author: Collin Stevens https://github.com/collinstevens
+## SavedVariables: 
+## OptionalDeps: 
+## Dependencies: TitanClassic
+## Version: 1.5.2.20504
+## X-Child-Of: TitanClassic
+TitanClassicManageTargetFrame.xml
